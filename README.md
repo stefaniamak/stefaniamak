@@ -47,11 +47,12 @@ Here's a list of things I currently keep myself busy with:
   <img src="https://komarev.com/ghpvc/?username=stefaniamak&color=FF0000&style=flat&label=visitors" alt="stefaniamak" /> 
 </p>
 
-<p align=center><img src="https://user-images.githubusercontent.com/48293545/158481681-421fed42-2cb5-44a4-9a73-39933bda12dc.gif" height="35"></p>
+<p align=center><img src="https://user-images.githubusercontent.com/48293545/158482155-5f4519bf-299d-41cf-9469-55e0d3d2e395.gif" height="35"></p>
+
 
 <!--
 can't decide on the emoji!
-<p align=center><img src="https://user-images.githubusercontent.com/48293545/158482155-5f4519bf-299d-41cf-9469-55e0d3d2e395.gif" height="35"></p>
+<p align=center><img src="https://user-images.githubusercontent.com/48293545/158481681-421fed42-2cb5-44a4-9a73-39933bda12dc.gif" height="35"></p>
 -->
 
 
