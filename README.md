@@ -4,10 +4,9 @@
 
 <img src="https://img.shields.io/badge/-Flutter-45D1FD?logo=flutter&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-Firebase-white?logo=firebase&logoColor=orange&style=flat"/> <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-Google%20Play-414141?logo=google%20play&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-App%20Store-0D96F6?logo=app%20store&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-Codemagic-F45E3F?logo=codemagic&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=white&style=flat"/> <img src="https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=flat"/>
 
-
 Here's a list of things I currently keep myself busy with:
 
-- <img src="https://user-images.githubusercontent.com/48293545/158476598-45e6f37d-75b5-4d35-8e69-3fb5d9d04cd4.gif" height="15" width="15"> Working full-time as a front-end flutter developer & project manager over at **[Smartup](https://smartupweb.com/)**
+- <img src="https://user-images.githubusercontent.com/48293545/158476598-45e6f37d-75b5-4d35-8e69-3fb5d9d04cd4.gif" height="15" width="15"> Working full-time as a front-end flutter developer & project manager over at **[Smartup](https://github.com/smartup-ike)**
 - 🤝 Volunteering as a mentor at [my university](https://www.iee.ihu.gr/en/)
 - <img src="https://user-images.githubusercontent.com/48293545/158477088-c966e478-0b02-471d-a6b6-78b544770c56.gif" height="18" width="18"> Challenging myself with code jams alongside friends
 
