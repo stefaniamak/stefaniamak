@@ -7,9 +7,9 @@
 
 Here's a list of things I currently keep myself busy with:
 
-- <img src="https://user-images.githubusercontent.com/48293545/158476598-45e6f37d-75b5-4d35-8e69-3fb5d9d04cd4.gif" height="15"> Working full-time as a front-end flutter developer & project manager over at **[Smartup](https://smartupweb.com/)**
+- <img src="https://user-images.githubusercontent.com/48293545/158476598-45e6f37d-75b5-4d35-8e69-3fb5d9d04cd4.gif" height="15" width="15"> Working full-time as a front-end flutter developer & project manager over at **[Smartup](https://smartupweb.com/)**
 - 🤝 Volunteering as a mentor at [my university](https://www.iee.ihu.gr/en/)
-- <img src="https://user-images.githubusercontent.com/48293545/158477088-c966e478-0b02-471d-a6b6-78b544770c56.gif" height="18"> Challenging myself with code jams alongside friends
+- <img src="https://user-images.githubusercontent.com/48293545/158477088-c966e478-0b02-471d-a6b6-78b544770c56.gif" height="18" width="18"> Challenging myself with code jams alongside friends
 
 <details>
   <summary><i>Shhh... there's more!</i></summary>
@@ -19,9 +19,9 @@ Here's a list of things I currently keep myself busy with:
   - Behind a camera capturing portraits and landscapes
   - Dressing up as fictional characters (cosplaying)
   - Playing video / board games
-  - Writing ✨fancy✨ documentation & adding (animated) emojies to slack <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" height="20">  
+  - Writing ✨fancy✨ documentation & adding (animated) emojies to slack <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" height="20" width="20">  
 
-<p align=center><img src="https://user-images.githubusercontent.com/48293545/158480244-5566b4e9-271f-4d43-9366-f747fd531690.png" height="18"></p>
+<p align=center><img src="https://user-images.githubusercontent.com/48293545/158480244-5566b4e9-271f-4d43-9366-f747fd531690.png" height="18" width="18"></p>
 
 </details>
   
@@ -47,7 +47,7 @@ Here's a list of things I currently keep myself busy with:
   <img src="https://komarev.com/ghpvc/?username=stefaniamak&color=FF0000&style=flat&label=visitors" alt="stefaniamak" /> 
 </p>
 
-<p align=center><img src="https://user-images.githubusercontent.com/48293545/158482155-5f4519bf-299d-41cf-9469-55e0d3d2e395.gif" height="35"></p>
+<p align=center><img src="https://user-images.githubusercontent.com/48293545/158482155-5f4519bf-299d-41cf-9469-55e0d3d2e395.gif" height="35" width="35"></p>
 
 
 <!--
