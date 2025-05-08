@@ -38,7 +38,7 @@ Here's a list of things I currently keep myself busy with:
     <a href="https://www.linkedin.com/in/stefaniamak/" alt="LinkedIn"><img src="https://user-images.githubusercontent.com/48293545/158461410-b3eac57a-095f-4cc8-8fa4-917542d71f39.svg" height="18"></a> 	&nbsp;
     <a href="https://www.behance.net/stefaniamak" alt="Behance"><img src="https://user-images.githubusercontent.com/48293545/158462417-601f7a93-0e80-42d5-abcf-487e6c08f0ed.svg" height="18"></a> 	&nbsp;
     <a href="https://www.facebook.com/stefania.mak.project" alt="My site"><img src="https://user-images.githubusercontent.com/48293545/158462419-538c1440-7a93-4ffd-853c-41dda9f84110.svg" height="18"></a> 	&nbsp;
-    <a href="mailto:stefania.mak.project@hotmail.com" alt="Contact me"><img src="https://user-images.githubusercontent.com/48293545/158462414-5e96bf21-1781-4bb3-a5b5-614b41d93438.svg" height="18"></a> 	&nbsp;
+    <a href="mailto:stefania.makrygiannaki@gmail.com" alt="Contact me"><img src="https://user-images.githubusercontent.com/48293545/158462414-5e96bf21-1781-4bb3-a5b5-614b41d93438.svg" height="18"></a> 	&nbsp;
     <a href="https://stefaniamak.github.io/" alt="My site"><img src="https://user-images.githubusercontent.com/48293545/158462420-85ff7278-8241-4015-a941-9acd1ec5475b.svg" height="18"></a>
   </p>
 
