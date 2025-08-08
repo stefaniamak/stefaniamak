@@ -6,7 +6,7 @@
 
 Here's a list of things I currently keep myself busy with:
 
-- <img src="https://user-images.githubusercontent.com/48293545/158476598-45e6f37d-75b5-4d35-8e69-3fb5d9d04cd4.gif" height="15" width="15"> Working full-time as a front-end flutter developer over at **[Atcom](https://www.atcom.gr/)**
+- <img src="https://user-images.githubusercontent.com/48293545/158476598-45e6f37d-75b5-4d35-8e69-3fb5d9d04cd4.gif" height="15" width="15"> Working full-time as a front-end flutter developer over at **[WeAre8](https://www.weare8.com/)**
 - 🤝 Volunteering as a mentor at [my university](https://www.iee.ihu.gr/en/)
 - <img src="https://user-images.githubusercontent.com/48293545/158477088-c966e478-0b02-471d-a6b6-78b544770c56.gif" height="18" width="18"> Challenging myself with code jams alongside friends
 
